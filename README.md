@@ -2,9 +2,9 @@ excecution du code:
 
 pre-requit:
 
-Log wazuh(csv)
-mapping mitre_veris(csv)
-veris_common_data_base(csv)
+Log wazuh(csv);
+mapping mitre_veris(csv);
+veris_common_data_base(csv);
 ######################################################################
 
 Environnement Python recommandé
