@@ -3,8 +3,11 @@ excecution du code:
 pre-requit:
 
 Log wazuh(csv);
+
 mapping mitre_veris(csv);
-veris_common_data_base(csv);
+
+veris_common_data_base(csv); # fichier volumineux pour  changer sur github.
+
 ######################################################################
 
 Environnement Python recommandé
