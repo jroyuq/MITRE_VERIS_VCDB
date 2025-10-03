@@ -2,11 +2,15 @@ excecution du code:
 
 pre-requit:
 
+assurez vous davoir ces fichiers dans le meme repertoire avec les .py
+
+
 Log wazuh(csv);
 
 mapping mitre_veris(csv);
 
 veris_common_data_base(csv); # fichier volumineux pour  changer sur github.
+
 
 ######################################################################
 
@@ -18,9 +22,16 @@ Système Linux/Windows/macOS
 
 
 ######################################################################
+
 Crée un environnement virtuel (venv).
 
 python -m venv .venv
 source .venv/bin/activate   # Linux/Mac
 .venv\Scripts\activate      # Windows
+
+#####################################
+
+excecution:
+
+python main.py 
  
